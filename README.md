@@ -11,7 +11,7 @@
 
 
 ---
-## Tenplate
+## Template
 
 [Title - Author - (HH:SS)](Link)
 
