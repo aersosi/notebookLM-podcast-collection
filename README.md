@@ -12,8 +12,11 @@
 
 ---
 ## Tenplate
-- [Lorem (xxx)](Lorem)
-- [Lorem (xxx)](Lorem)
-- [Lorem (xxx)](Lorem)
+
+[Title - Author - (HH:SS)](Link)
+
+[Title - Author - (HH:SS)](Link)
+
+[Title - Author - (HH:SS)](Link)
 
 
